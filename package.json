@@ -1,0 +1,21 @@
+{
+    "name": "jamtools-example-arpeggiator",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "build": "sb build src/index.tsx",
+      "dev": "sb dev src/index.tsx",
+      "start": "sb start"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+      "@jamtools/core": "^0.13.0",
+      "react": "^18.3.1",
+      "react-dom": "^18.3.1",
+      "springboard": "^0.13.0",
+      "springboard-cli": "^0.13.0"
+    }
+  }
